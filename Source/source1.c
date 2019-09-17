@@ -7,3 +7,8 @@ main()
   poo();  // BBB가 만들어줘
   foo();  // CCC가 만들어줘!!!
 }
+
+void poo()
+{
+  printf("hello");
+}
